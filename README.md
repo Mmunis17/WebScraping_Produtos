@@ -1,2 +1,2 @@
-# WebScraping_Produtos_14.08.24
-Estudos-WebScraping_Produtos_14.08.24
+# WebScraping_Produtos
+Estudos-WebScraping_Produtos_em_Canais_de_Vendas
